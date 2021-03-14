@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Pyhton, Ruby and JavaScript
-- 👯 I’m looking to collaborate on computational mechanics
+- 👯 I’m looking to collaborate on computational mechanics    
+
+
+
 [Contact me](mailto:ansufw@gmail.com)
 
 <!--
