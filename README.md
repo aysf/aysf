@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on master thesis
-
-[Contact me](https://github.com/user/repository/subscription)
+- 🌱 I’m currently learning Pyhton, Ruby and JavaScript
+- 👯 I’m looking to collaborate on computational mechanics
+[Contact me](mailto:ansufw@gmail.com)
 
 <!--
 **aysf/aysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
