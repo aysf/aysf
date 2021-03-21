@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Pyhton, Ruby and JavaScript
+- 🌱 I’m currently learning HTML/CSS, JavaScript, Ruby, Python, Rust, R, C++, Java and Go. 
 - 👯 I’m looking to collaborate on computational mechanics    
 
 
