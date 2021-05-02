@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Ruby, Python, Rust, R, C++, Java and Go. 
+- 🌱 I’m currently learning C/C++, JavaScript, Python, Ruby, Rust, Shell, and HTML/CSS
 - 👯 I’m looking to collaborate on computational mechanics    
 
 ### Highlighted Repo ✨    
