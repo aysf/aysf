@@ -4,10 +4,12 @@
 - 👯 I’m looking to collaborate on computational mechanics    
 - 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
+<p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
   <a href="https://www.linuxfoundation.org/projects/linux/" title="linux"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="55"/></a>
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
+</p>
 
 ### Highlighted Repo ✨    
 - [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
