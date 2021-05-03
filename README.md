@@ -9,6 +9,7 @@
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
   <a href="https://www.linuxfoundation.org/projects/linux/" title="linux"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="55"/></a>
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
+  <a href="https://www.ruby-lang.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" width="55"/></a>
 </p>
 
 ### Highlighted Repo ✨    
