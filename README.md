@@ -7,8 +7,9 @@
 - [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
 - [belajar-koding](https://github.com/aysf/belajar-koding) -> note for learning coding
 
-[![aysf's github stats](https://github-readme-stats.vercel.app/api?username=aysf)](https://github.com/aysf/github-readme-stats)
+![Aysf's Github Stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf)](https://github.com/aysf/github-readme-stats)
 
 [Contact me](mailto:ansufw@gmail.com)
 
