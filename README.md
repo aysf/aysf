@@ -15,9 +15,6 @@
   </a>
 </p>
 
-### Highlighted Repo ✨    
-- [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
-- [belajar-koding](https://github.com/aysf/belajar-koding) -> note for learning coding
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=radical)](https://github.com/aysf/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf&show_icons=true&theme=radical&layout=compact)](https://github.com/aysf/github-readme-stats)
 
@@ -35,7 +32,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Highlighted Repo ✨    
+- [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
+- [belajar-koding](https://github.com/aysf/belajar-koding) -> note for learning coding
+
 -->
