@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on computational mechanics    
 - 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=radical)](https://github.com/aysf/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf&show_icons=true&theme=radical&layout=compact)](https://github.com/aysf/github-readme-stats)
+
 <p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
@@ -15,11 +17,6 @@
   <a href="https://www.ruby-lang.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" width="55"/></a>
   <a href="https://www.rust-lang.org/" title="python"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="55"/></a>
 </p>
-
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=radical)](https://github.com/aysf/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf&show_icons=true&theme=radical&layout=compact)](https://github.com/aysf/github-readme-stats)
-
-
 
 
 
