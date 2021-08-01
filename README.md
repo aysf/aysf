@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Go
 - 👯 I’m looking to collaborate on computational mechanics    
 - 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
