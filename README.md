@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m junior programmer
-- 👯 I’m looking for opportunity career in software engineer
-- 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
+- 👯 I’m looking for an opportunity as software engineer
+- 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
 I am currently working on: 
 
