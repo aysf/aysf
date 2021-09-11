@@ -4,7 +4,11 @@
 - 👯 I’m looking to collaborate on computational mechanics    
 - 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=radical)](https://github.com/aysf/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf&show_icons=true&theme=radical&layout=compact)](https://github.com/aysf/github-readme-stats)
+my favorite project 
+
+  <br/>
+  <a href="https://github.com/aysf/gojs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aysf&repo=gojs"/></a>
+  <br/>
 
 <p align="center">
   <br>
@@ -34,5 +38,10 @@ Here are some ideas to get you started:
 ### Highlighted Repo ✨    
 - [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
 - [belajar-koding](https://github.com/aysf/belajar-koding) -> note for learning coding
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=aysf&show_icons=true&theme=radical)](https://github.com/aysf/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysf&show_icons=true&theme=radical&layout=compact)](https://github.com/aysf/github-readme-stats)
+
+
 
 -->
