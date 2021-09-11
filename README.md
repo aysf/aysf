@@ -12,7 +12,8 @@ I am currently working on:
     
     
     
-    my favorite languages: 
+my favorite languages: 
+ 
 <p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
