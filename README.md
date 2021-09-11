@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript and Go
-- 👯 I’m looking to collaborate on computational mechanics    
+- 🌱 I’m junior programmer
+- 👯 I’m looking for opportunity career in software engineer
 - 📫 How to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
 
-my favorite project 
+I am currently working on: 
 
   <br/>
   <a href="https://github.com/aysf/gojs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aysf&repo=gojs"/></a>
   <br/>
-
+    
+    
+    
+    my favorite languages: 
 <p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
