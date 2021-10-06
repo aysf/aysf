@@ -2,7 +2,7 @@
 
 - 🌱 I’m a junior programmer....
 - 👯 I’m looking for an opportunity as software engineer
-- 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/rida-elbahtouri/)
+- 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
 
 I am currently working on: 
 
