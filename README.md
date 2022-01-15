@@ -19,7 +19,7 @@ my favorite programming languages:
 <p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
-  <a href="https://www.linuxfoundation.org/projects/linux/" title="linux"><img src="https://github.com/golang-samples/gopher-vector/blob/master/gopher-front.svg" width="55"/></a>
+  <a href="https://www.linuxfoundation.org/projects/linux/" title="linux"><img src="https://github.com/aysf/img/blob/master/favpng_go-programming-language-computer-programming-programmer.png" width="55"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="linux"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="55"/></a>
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
 
