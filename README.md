@@ -4,16 +4,6 @@
 - 👯 I’m looking for an opportunity as software engineer
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
 
-I am currently working on: 
-
-  <br/>
-  <a href="https://github.com/aysf/gojs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aysf&repo=gojs"/></a>
-  <br/>   
-    
-<br/>
-<br/>
-<br/>
-     
 my favorite programming languages: 
  
 <p align="center">
