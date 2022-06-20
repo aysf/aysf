@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m a junior programmer....
 - 👯 I’m looking for an opportunity as software engineer
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
 
-my favorite programming languages: 
+## my favorite programming languages: 
  
 <p align="center">
   <br>
@@ -13,8 +13,9 @@ my favorite programming languages:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="linux"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="55"/></a>
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
 
-link
+## link
  - [codeberg](https://codeberg.org/ayw)
+ - [gitlab](https://gitlab.com/wicak)
 
 <!--
 **aysf/aysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
