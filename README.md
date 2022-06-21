@@ -1,9 +1,10 @@
-## Hi there 👋
 <p>
-  <h2 align="center">Hello, World! <br>
+  <h2 align="center">Hello, World 👋 <br>
   <img align="center" src="https://gpvc.arturio.dev/aysf">
   </h2>
 </p>
+
+<br/>
 
 - 🌱 I’m a junior programmer....
 - 👯 I’m looking for an opportunity as software engineer
