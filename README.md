@@ -6,14 +6,26 @@
 
 <br/>
 
-- 🌱 I’m a junior programmer....
-- 👯 I’m looking for an opportunity as software engineer
+
+Currently, I use <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code> in my work with help <code><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></code> in my Debian. I also use <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></code> to programming client-side web application and <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></code> for having fun.
+
+## About me
+
+
+- 🌱 I am not hold any CS degree but I want to grow up into 100 top programmer
+- 👯 Open for collaboration some usefull stuff!
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
+ 
+
+## my links
+ - [codeberg](https://codeberg.org/ayw)
+ - [gitlab](https://gitlab.com/wicak)
+
+<!--
 
 ## my favorite programming languages: 
 
-I use <code><img src="https://en.wikipedia.org/wiki/File:Go_Logo_Blue.svg" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code> in my daily job. 
- 
+
 <p align="center">
   <br>
   <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="65"/></a>
@@ -22,11 +34,7 @@ I use <code><img src="https://en.wikipedia.org/wiki/File:Go_Logo_Blue.svg" width
   <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/></a>
   <a href="https://www.ruby-lang.org/en" title="ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55"/></a>
  
-## my links
- - [codeberg](https://codeberg.org/ayw)
- - [gitlab](https://gitlab.com/wicak)
 
-<!--
 **aysf/aysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
