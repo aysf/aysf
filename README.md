@@ -21,6 +21,21 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
 
+## Exercise Time
+
+### Fundamental
+- Installation
+- Math Operator
+- Control flow
+- Iteration
+- Data Type
+- OOP
+- Concurency
+### Algorithm
+- FizzBuzz
+- Palindrome
+- Travelling Salesman Problem
+
 <!--
 
 ## my favorite programming languages: 
