@@ -7,7 +7,7 @@
 <br/>
 
 
-Currently, I use <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code> in my work with help <code><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></code> in my Debian. I also use <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></code> to programming client-side web application and use <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></code> for educational purpose.
+Currently, I use <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code> in my work with help <code><a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></a></code> in my Debian. I also use <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></code> to programming client-side web application and use <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></code> for educational purpose.
 
 ## About me
 
