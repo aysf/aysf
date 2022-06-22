@@ -9,15 +9,15 @@
 
 Currently, I use <code><a href="https://go.dev/" title="go programming language"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="32"/></a></code> and <code><a href="https://www.ruby-lang.org/en" title="ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></a></code> in my work with help <code><a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></a></code> in my Debian. I also use <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></a></code> to code client-side web application and use <code><a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></a></code> for educational purpose.
 
-## About me
+## Fun Fact
 
 
-- 🌱 I am not hold any CS degree but I want to grow up into 100 top programmer
+- 🌱 I Graduated from Mechanical and Civil Engineering but not a CS degree yet I want to grow up into 100 top programmer
 - 👯 Open for collaboration some usefull stuff!
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
  
 
-## my links
+## My Link
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
 
