@@ -16,7 +16,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
  
 
-## My Link
+## My Links
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
 
