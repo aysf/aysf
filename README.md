@@ -12,7 +12,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 ## Short Description
 
 - 🌱 I Graduated from Mechanical and Civil Engineering - not a CS degree :( - but I want to grow up into 100 top programmer
-- 👯 Open for collaboration some usefull stuff!
+- 👯 Open for collaboration, coding some usefull stuff!
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
  
 
