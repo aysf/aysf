@@ -12,7 +12,7 @@
 
 ## my favorite programming languages: 
 
-I use <code><img src="https://github.com/aysf/img/blob/master/favpng_go-programming-language-computer-programming-programmer.png" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code>
+I use <code><img src="https://en.wikipedia.org/wiki/File:Go_Logo_Blue.svg" width="32"/></code> and <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></code> in my daily job. 
  
 <p align="center">
   <br>
