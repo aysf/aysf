@@ -21,7 +21,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
  - [gitlab](https://gitlab.com/wicak)
 
 
-<img src="https://www.codewars.com/users/aysf/badges/large">
+[https://www.codewars.com/users/aysf/badges/large](https://www.codewars.com/users/aysf/badges/micro)
 
 <!--
 
