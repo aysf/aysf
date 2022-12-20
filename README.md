@@ -1,7 +1,6 @@
 <p>
   <h2 align="center">Hello, World 👋 <br>
   <img align="center" src="https://gpvc.arturio.dev/aysf"> <br>
-  <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
     
   </h2>
 </p>
@@ -21,6 +20,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 ## My Links
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
+ - <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
 
 <!--
 
