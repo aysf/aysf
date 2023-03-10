@@ -18,7 +18,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
  
 
 ### Learning Note ✍🏻    
-- [learning client-server app with http](https://github.com/aysf/clientserver-http-go)
+- [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
 
 ## My Links 🦶🏾
