@@ -17,11 +17,11 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 - 📫 Feel free to reach me: [email](mailto:ansufw@gmail.com), [Linkedin](https://www.linkedin.com/in/ansuf/)
  
 
-### Highlighted Repo ✨    
+### Learning Note ✍🏻    
 - [learning client-server app with http](https://github.com/aysf/clientserver-http-go)
 
 
-## My Links
+## My Links 🦶🏾
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
  - <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
