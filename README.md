@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Highlighted Repo ✨    
+- [learning client-server app with http](https://github.com/aysf/clientserver-http-go)
 - [nusa-theme](https://github.com/aysf/nusa-theme) -> web theme collection
 - [belajar-koding](https://github.com/aysf/belajar-koding) -> note for learning coding
 
