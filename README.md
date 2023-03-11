@@ -7,7 +7,7 @@
 
 <br/>
 
-Although I started my software engineering career at 30s, I am optimistic that I can be good asset for your project!
+Despite beginning my career in software engineering in my 30s, I am confident that I can bring significant value to your project. My passion for computer science has been a driving force throughout my life, and I have been familiar with computers since my primary school days when I first encountered MS DOS.
 
 ## Stacks
  
