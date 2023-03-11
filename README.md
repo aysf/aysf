@@ -13,11 +13,8 @@ Although I started my software engineering career at 30s, I am optimistic that I
  
 <span>
 <a href="https://go.dev/" title="go programming language"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="32"/></a>
-
 <a href="https://www.ruby-lang.org/en" title="ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></a>
-
 <a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></a>
 <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></a>
 </span>
