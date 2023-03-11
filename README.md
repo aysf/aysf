@@ -21,6 +21,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
 ### My Learning Journey 📚   
+- [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 
