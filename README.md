@@ -9,8 +9,6 @@
 
 Despite beginning my career in software engineering in my 30s, I am confident that I can bring significant value to your project. My passion for computer science has been a driving force throughout my life, and I have been familiar with computers since my primary school days when I first encountered MS DOS.
 
-I also have over a year of experience in both the fast-moving consumer goods (FMCG) and telecommunications industries. As a backend developer, I have honed my skills in designing and implementing efficient and secure systems to support various applications. Furthermore, I am always eager to learn new technologies and expand my skillset to stay current in the rapidly evolving field of software engineering.
-
 ## Stacks
  
 <span style="border:1px solid red;text-align=center">
