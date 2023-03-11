@@ -20,6 +20,9 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 ### Learning Note ✍🏻    
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
+### My Learning Journey 📚   
+- [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
 
 ## My Links 🦶🏾
  - [codeberg](https://codeberg.org/ayw)
