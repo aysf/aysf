@@ -23,7 +23,7 @@ Currently, I use <code><a href="https://go.dev/" title="go programming language"
 ### My Learning Interest 📚   
 - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- [Introduction to cyber security: stay safe online]([https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab))
+- [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
 
 
 
