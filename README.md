@@ -7,7 +7,7 @@
 
 <br/>
 
-experienced back-end developer 
+I'm an experienced back-end developer with 1+ year experience in tech industry!
 
 ## Stacks
  
