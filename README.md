@@ -27,6 +27,10 @@ I'm a software engineer with 1+ year experience as backend developer!
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
 
+### My Gear
+
+- [my-gear-guidence](https://github.com/aysf/laptop-setting-2022)
+
 
 
 
