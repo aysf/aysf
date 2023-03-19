@@ -7,7 +7,7 @@
 
 <br/>
 
-I'm a software engineer with 1+ year experience as backend developer!
+I am not a CS degree but I'd like to learn the computer things.
 
 ## Stacks
  
