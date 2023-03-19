@@ -29,7 +29,7 @@ I'm a software engineer with 1+ year experience as backend developer!
 
 ### My Gear
 
-- [my-gear-guidance](https://github.com/aysf/laptop-setting-2022)
+- [my-equipment-setting](https://github.com/aysf/laptop-setting-2022)
 
 
 
