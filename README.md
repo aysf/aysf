@@ -7,7 +7,7 @@
 
 <br/>
 
-I am not a CS degree but I'd like to learn the computer things.
+Despite lacking a CS degree, I possess a strong passion for programming and have over a year of experience as a backend engineer.
 
 ## Stacks
  
