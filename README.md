@@ -19,7 +19,7 @@ Despite lacking a CS degree, I possess a strong passion for programming and have
 <a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></a>
 </span>
 
-### Learning Note ✍🏻    
+### Learning Note ✍️    
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
 ### My Learning Interest 📚   
@@ -34,7 +34,7 @@ Despite lacking a CS degree, I possess a strong passion for programming and have
 
 
 
-## My Links 🦶🏾
+## My Links 🖇️
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
  - <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
