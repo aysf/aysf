@@ -1,11 +1,12 @@
 <p>
   <h2 align="center">Hello, World 👋 <br>
-  ![](https://komarev.com/ghpvc/?username=aysf)
-    <br>
+  
+ 
     
   </h2>
 </p>
 
+![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
 
 Despite lacking a CS degree, I possess a strong passion for programming and have over a year of experience as a backend engineer.
