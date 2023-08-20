@@ -1,6 +1,7 @@
 <p>
   <h2 align="center">Hello, World 👋 <br>
-  ![](https://komarev.com/ghpvc/?username=aysf&color=green)<br>
+  ![](https://komarev.com/ghpvc/?username=aysf)
+    <br>
     
   </h2>
 </p>
