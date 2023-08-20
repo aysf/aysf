@@ -1,6 +1,6 @@
 <p>
   <h2 align="center">Hello, World 👋 <br>
-  <img align="center" src="https://gpvc.arturio.dev/aysf"> <br>
+  ![](https://komarev.com/ghpvc/?username=aysf&color=green)<br>
     
   </h2>
 </p>
