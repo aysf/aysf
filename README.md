@@ -8,18 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
+- 🔭 I’m currently working on Geniox Mobile
+- 🌱 I’m currently learning Go, Ruby, VueJS
 
-Despite lacking a CS degree, I possess a strong passion for programming and have over a year of experience as a backend engineer.
-
-## Stacks
- 
-<span style="border:1px solid red;text-align=center">
-<a href="https://go.dev/" title="go programming language"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="64"/></a>
-<a href="https://www.ruby-lang.org/en" title="ruby"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="32"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32"/></a>
-<a href="https://www.python.org/" title="python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32"/></a>
-<a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="32"/></a>
-</span>
 
 ### Learning Note ✍️    
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
@@ -28,11 +19,6 @@ Despite lacking a CS degree, I possess a strong passion for programming and have
 - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
-
-### My Gear
-
-- [my-equipment-setting](https://github.com/aysf/laptop-setting-2022)
-
 
 
 
