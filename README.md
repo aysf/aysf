@@ -10,7 +10,7 @@
 <br/>
 - 🔭 I’m currently working on Geniox Mobile
 - 🌱 I’m currently learning Go, JavaScript (Vue & React), 💎 Ruby, PostgreSQL, Linux (Ubuntu), HTML/CSS and Docker (Swarm).
-- 💬 Speak English & Indonesia
+- 💬 Speak English & Indonesia (Native)
 
 
 ### Catatan ✍️    
