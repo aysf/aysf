@@ -9,10 +9,11 @@
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
 - 🔭 I’m currently working on Geniox Mobile
-- 🌱 I’m currently learning Go, JavaScript (Vue & React), Ruby, PostgreSQL, and Docker (Swarm).
+- 🌱 I’m currently learning Go, JavaScript (Vue & React), 💎 Ruby, PostgreSQL, and Docker (Swarm).
+- 💬 Speak English & Indonesia
 
 
-### Learning Note ✍️    
+### Catatan ✍️    
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
 ### Course Bookmark 📚   
@@ -20,9 +21,7 @@
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
 
-
-
-## My Links 🖇️
+## Tautan 🖇️
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
  - <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
