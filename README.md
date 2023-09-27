@@ -15,7 +15,7 @@
 ### Learning Note ✍️    
 - [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
 
-### My Learning Interest 📚   
+### Course Bookmark 📚   
 - [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
