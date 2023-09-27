@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
 - 🔭 I’m currently working on Geniox Mobile
-- 🌱 I’m currently learning Go, Ruby, VueJS
+- 🌱 I’m currently learning Go, Ruby, PostgreSQL, Docker, VueJS
 
 
 ### Learning Note ✍️    
