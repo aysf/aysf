@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
-- 🔭 I’m currently working on Geniox Mobile
+- 🔭 I’m currently working on Geniox Mobile as Go Backend Engineer 
 - 🌱 I’m currently learning Go, JavaScript (Vue & React), 💎 Ruby & 🐍 Python, PostgreSQL, Linux (Ubuntu), HTML/CSS and Docker (Swarm).
 - 💬 Speak Indonesia (Native) & English
 
