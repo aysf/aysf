@@ -8,9 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
-- 🔭 I’m currently working on Geniox Mobile as Go Backend Engineer 
-- 🌱 I’m currently learning Go, JavaScript (Vue & React), 💎 Ruby & 🐍 Python, PostgreSQL, Linux (Ubuntu), HTML/CSS and Docker (Swarm).
-- 💬 Speak Indonesia (Native) & English
+Hello my name is Ananto. I have not yet hold any degree related to computer science. Even I graduated from engineering field, the portion of programming is relative small. But now I am working as a backend developer and would like to be full stack developer in the near future. 
+- Use Go as backend
+- Sometimes using JavaScript and Ruby
 
 
 ### Catatan ✍️    
