@@ -8,7 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aysf)
 <br/>
-Hello my name is Ananto. I have not yet hold any degree related to computer science. Even I graduated from engineering field, the portion of programming is relative small. But now I am working as a backend developer and would like to be full stack developer in the near future. 
+Hello, my name is Ananto. I do not yet hold any degree related to computer science. Although I graduated from an engineering field, the amount of programming involved was relatively small. However, I am currently working as a backend developer and aspire to become a full stack developer in the near future. Additionally, I am interested in the application of computer science in the telecommunications industry, which is my current employer's field, as well as in other fields such as healthcare, finance, automotive, food and engineering.
+
+
 - Use Go as backend
 - Sometimes using JavaScript and Ruby
 
