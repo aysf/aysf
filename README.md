@@ -1,10 +1,4 @@
-<p>
-  <h2 align="center">Hello, World 👋 <br>
-  
- 
-    
-  </h2>
-</p>
+<h2 align="center">Hello, World 👋 </h2>
 
 
 
