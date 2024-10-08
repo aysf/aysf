@@ -6,25 +6,9 @@
   </h2>
 </p>
 
-![](https://komarev.com/ghpvc/?username=aysf)
-<br/>
-Hello, my name is Ananto. I do not yet hold any degree related to computer science. Although I graduated from an engineering field, the amount of programming involved was relatively small. However, I am currently working as a backend developer and aspire to become a full stack developer in the near future. 
-
-a bit about me:
-
-- Use Go as backend
-- Sometimes using JavaScript and Ruby
 
 
-### Catatan ✍️    
-- [client-server http connection with Go](https://github.com/aysf/clientserver-http-go)
-
-### Course Bookmark 📚   
-- [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab)
-
-## Tautan 🖇️
+## Link 🖇️
  - [codeberg](https://codeberg.org/ayw)
  - [gitlab](https://gitlab.com/wicak)
  - <a href="https://www.codewars.com/users/aysf"><img src="https://www.codewars.com/users/aysf/badges/small"> </a> <br>
